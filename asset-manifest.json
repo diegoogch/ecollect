@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/ecollect/static/css/main.36ed1cb9.chunk.css",
+    "main.js": "/ecollect/static/js/main.3d031f10.chunk.js",
+    "main.js.map": "/ecollect/static/js/main.3d031f10.chunk.js.map",
+    "runtime~main.js": "/ecollect/static/js/runtime~main.36df8736.js",
+    "runtime~main.js.map": "/ecollect/static/js/runtime~main.36df8736.js.map",
+    "static/css/2.39017165.chunk.css": "/ecollect/static/css/2.39017165.chunk.css",
+    "static/js/2.4e091c0d.chunk.js": "/ecollect/static/js/2.4e091c0d.chunk.js",
+    "static/js/2.4e091c0d.chunk.js.map": "/ecollect/static/js/2.4e091c0d.chunk.js.map",
+    "index.html": "/ecollect/index.html",
+    "precache-manifest.c520474545a6817e1b69029f3d69a354.js": "/ecollect/precache-manifest.c520474545a6817e1b69029f3d69a354.js",
+    "service-worker.js": "/ecollect/service-worker.js",
+    "static/css/2.39017165.chunk.css.map": "/ecollect/static/css/2.39017165.chunk.css.map",
+    "static/css/main.36ed1cb9.chunk.css.map": "/ecollect/static/css/main.36ed1cb9.chunk.css.map",
+    "static/media/index.css": "/ecollect/static/media/seguridad.07b34fdf.png",
+    "static/media/finalizado.png": "/ecollect/static/media/finalizado.7df30611.png",
+    "static/media/logotipo_original.png": "/ecollect/static/media/logotipo_original.b2e449f3.png"
+  }
+}
